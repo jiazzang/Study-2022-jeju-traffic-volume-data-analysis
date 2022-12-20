@@ -92,12 +92,16 @@
   
   
   
-## 4. 자료 분석 과정
+## 4. 자료 분석 과정  
 
-#### [데이터 분석 및 예측모델 개발 코드](https://github.com/jiazzang/Project_2022_jeju_traffic_volume_data_analysis/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC_%EB%B0%8F_%EB%AA%A8%EB%8D%B8_%EA%B0%9C%EB%B0%9C.ipynb)
-* 탐색적 데이터 분석(EDA) 및 시각화
-* 데이터 전처리: 결측치 처리, 파생변수 생성, 불필요한 컬럼 삭제, 이상치처리, 범주형 변수 인코딩
-* 모델 학습 및 평가: 세 가지 모형(XGBoost, LGBM, 랜덤포레스트+엑스트라트리 앙상블)을 개발하여, MAE가 가장 낮은 최적의 모델 발굴  
+### 분석 절차  
+![제주_도로_교통량_분석_절차](https://user-images.githubusercontent.com/118996664/208552474-d2fc3348-3a73-4519-aec8-726edeeffec0.png)  
+
+* 탐색적 데이터 분석(EDA) 및 데이터 전처리  
+* 데이터 전처리: 결측치 처리, 파생변수 생성, 불필요한 컬럼 제거, 이상치처리, 범주형 변수 인코딩  
+* 예측모델 개발: 세 가지 모형(XGBoost, LGBM, 랜덤포레스트+엑스트라트리 앙상블) 개발하여, MAE 값이 가장 낮은 최적의 모델 발굴  
+
+#### [데이터 분석 및 예측모델 개발 코드.ipynb](https://github.com/jiazzang/Project_2022_jeju_traffic_volume_data_analysis/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC_%EB%B0%8F_%EB%AA%A8%EB%8D%B8_%EA%B0%9C%EB%B0%9C.ipynb) 
 
 ## 5. 분석 과정 및 결과 보고서  
 보고서 작성 중
