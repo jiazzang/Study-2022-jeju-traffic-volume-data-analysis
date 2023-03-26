@@ -101,4 +101,4 @@
 * 데이터 전처리: 결측치 처리, 파생변수 생성, 불필요한 컬럼 제거, 이상치처리, 범주형 변수 인코딩  
 * 예측모델 개발: 세 가지 모형(XGBoost, LGBM, 랜덤포레스트+엑스트라트리 앙상블) 개발하여, MAE 값이 가장 낮은 최적의 모델 발굴  
 
-#### [데이터 분석 및 예측모델 개발 코드.ipynb](https://github.com/jiazzang/Project_2022_jeju_traffic_volume_data_analysis/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC_%EB%B0%8F_%EB%AA%A8%EB%8D%B8_%EA%B0%9C%EB%B0%9C.ipynb) 
+#### [데이터 분석 및 예측모델 개발 코드.ipynb](https://github.com/jiazzang/Study-2022-jeju-traffic-volume-data-analysis/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC_%EB%B0%8F_%EB%AA%A8%EB%8D%B8_%EA%B0%9C%EB%B0%9C.ipynb) 
